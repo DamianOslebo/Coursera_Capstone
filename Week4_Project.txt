@@ -1,0 +1,15 @@
+### Introduction
+
+I am booking travel to foreign cities for a bachelor party and I am interested in the number of adult friendly establishments that are available for entertainment options
+
+The audience is single adult heterosexual males from 18-99
+
+The problem is that it is not easy to gather information that would make for a great party in one place
+
+The solution will provide a count of the number of adult-friendly establishments by city by category
+
+### Data
+
+Capstone will meed the geographic centers of major target cities to include "New York, Toronto, Montreal, Seattle, Bangkok, Tokyo, London, Singapore"
+
+Capstone will use Foursquare data to poll for venue categories that include "Bar, Strip Club, Massage Parlor, Night Club, Beer Bar, Casino"
